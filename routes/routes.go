@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"go.com/rest-api/utils/middlewares"
+	"go.com/rest-api/middlewares"
 )
 
 func RegisterRoutes(server *gin.Engine) {
